@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./laptop.png" alt="Laptop with colourful content in the screen" width="500px" />
+<img src="./laptop.png" alt="Laptop with colourful content in the screen" width="480px" />
 </p>
 
 ### 🌍 About Me
@@ -11,10 +11,28 @@ I’m driven by a commitment to continuous learning and personal growth, always 
 
 ### 🛠️ Technologies & Tools
 
-| <img src="./Typescript.png" alt="TypeScript" width="80px" /> | <img src="./Javascript.png" alt="JavaScript" width="80px" /> | <img src="./React.png" alt="React" width="80px" /> | <img src="./Next.png" alt="Next.js" width="80px" /> | <img src="./Astro.png" alt="Astro" width="80px" /> | <img src="./Tailwind.png" alt="Tailwind CSS" width="80px" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./Node.png" alt="Node.js" width="80px" /> | <img src="./Express.png" alt="Express" width="80px" /> | <img src="./Nest.png" alt="Nest.js" width="80px" /> | <img src="./Mongo.png" alt="MongoDB" width="80px" /> | <img src="./PostgreSQL.png" alt="PostgreSQL" width="80px" /> | <img src="./Firebase.png" alt="Firebase" width="80px" /> |
-| <img src="./Jest.png" alt="Jest" width="80px" /> | <img src="./Vitest.png" alt="Vitest" width="80px" /> | <img src="./Cypress.png" alt="Cypress" width="80px" /> | <img src="./Testing-library.png" alt="Testing Library" width="80px" /> | |
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Foundry-000000?style=flat&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ethers.js-2535A0?style=flat&logo=ethereum&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+</p>
 
 ---
 
