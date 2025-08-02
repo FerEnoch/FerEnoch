@@ -4,8 +4,14 @@
 
 ### 🌍 About Me
 
-I’m a self-taught fullstack developer  with a strong focus on frontend development.
-I’m driven by a commitment to continuous learning and personal growth, always eager to expand my knowledge. 
+I’m a self-taught fullstack developer with a strong focus on frontend development.
+Driven by a passion for continuous learning, I'm constantly expanding my technical toolkit and exploring new horizons in software development.
+Always learning and growing 💪
+
+What I'm working with these days:
+- JavaScript/TypeScript
+- React.js, Next.js & Node.js
+- Python & Solidity on the side.
 
 ---
 
