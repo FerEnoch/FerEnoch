@@ -6,12 +6,13 @@
 ### 🌍 About Me
 
 I'm Fernando Gómez, a passionate Web3 & Smart Contracts Developer with a strong fullstack background. I thrive on building robust, scalable applications—both on-chain and off—and love collaborating with teams to turn ideas into reality.
-Also playing around these days with Python + AI (fine-tuning open-source models for public administration sector use cases)
 
 My experience spans:
 - **Web3 & Blockchain:** Solidity, Foundry, Ethers.js, Ethereum, Chainlink, smart contract security, dApp development
 - **Fullstack Development:** React.js, Next.js, Node.js, Nest.js, Express, Python, PostgreSQL, MongoDB, Firebase
 - **Modern Frontend:** TypeScript, JavaScript, Astro, Tailwind CSS
+
+Also playing around these days with Python + AI (fine-tuning open-source models for public administration sector use cases)
 
 I’m a proactive, results-oriented problem solver who values clean code, continuous learning, and open communication. I bring a unique mix of technical depth, product focus, and a strong understanding of legal/compliance frameworks for smart contracts.
 
