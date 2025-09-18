@@ -14,8 +14,6 @@ My experience spans:
 
 Also playing around these days with Python + AI (fine-tuning open-source models for public administration sector use cases)
 
-I’m a proactive, results-oriented problem solver who values clean code, continuous learning, and open communication. I bring a unique mix of technical depth, product focus, and a strong understanding of legal/compliance frameworks for smart contracts.
-
 <p align="center">
   <a href="https://profiles.cyfrin.io/u/ferech/achievements/solidity" target="_blank">
     <img src="https://img.shields.io/badge/Solidity%20Smart%20Contracts%20Development-4B0082?style=flat&logo=solidity&logoColor=white" alt="Solidity Smart Contracts Development"/>
