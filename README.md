@@ -3,32 +3,46 @@
 </p>
 
 
-### 🌍 About Me
+### 👾 About Me
 
-I'm Fernando Gómez, a passionate Web3 & Smart Contracts Developer with a strong fullstack background. I thrive on building robust, scalable applications—both on-chain and off—and love collaborating with teams to turn ideas into reality.
+```bash
+$ whoami
+> Fernando Gómez
+> Web3 & Smart Contracts Developer
+> continuous_self.dev
 
-My experience spans:
-- **Web3 & Blockchain:** Solidity, Foundry, Ethers.js, Ethereum, Chainlink, smart contract security, dApp development
-- **Fullstack Development:** React.js, Next.js, Node.js, Nest.js, Express, Python, PostgreSQL, MongoDB, Firebase
-- **Modern Frontend:** TypeScript, JavaScript, Astro, Tailwind CSS
+$ uptime
+> Coding since 2020 | Fullstack background | Always learning
 
-Also playing around these days with Python + AI (fine-tuning open-source models for public administration sector use cases)
+$ skills --list
+> Web3/Blockchain: Solidity, Foundry, Ethers.js, Ethereum, Chainlink, dApp dev, smart contract security
+> Fullstack: React.js, Next.js, Node.js, Nest.js, Express, Python, PostgreSQL, MongoDB, Firebase
+> Modern Frontend: TypeScript, JavaScript, Astro, Tailwind CSS
+
+$ currently_hacking_on
+> Python + AI (fine-tuning open-source models for public administration use cases)
+```
+
+
 
 <p align="center">
   <a href="https://profiles.cyfrin.io/u/ferech/achievements/solidity" target="_blank">
-    <img src="https://img.shields.io/badge/Solidity%20Smart%20Contracts%20Development-4B0082?style=flat&logo=solidity&logoColor=white" alt="Solidity Smart Contracts Development"/>
+    <img src="https://img.shields.io/badge/-Solidity%20Smart%20Contracts%20Development-000000?style=for-the-badge&logo=solidity&logoColor=green"
+    alt="Solidity Smart Contracts Development"/>
   </a>
   <a href="https://profiles.cyfrin.io/u/ferech/achievements/full-stack-web3-development-crash-course" target="_blank">
-    <img src="https://img.shields.io/badge/Fullstack%20Web3%20Development-4B0082?style=flat&logo=ethereum&logoColor=white" alt="Cyfrin Updraft Full-stack Web3 Development C.C."/>
+    <img src="https://img.shields.io/badge/-Fullstack%20Web3%20Development-000000?style=for-the-badge&logo=ethereum&logoColor=white"
+    alt="Cyfrin Updraft Full-stack Web3 Development C.C."/>
   </a>
   <a href="https://profiles.cyfrin.io/u/ferech/achievements/foundry" target="_blank">
-    <img src="https://img.shields.io/badge/Foundry%20Fundamentals-4B0082?style=flat&logo=ethereum&logoColor=white" alt="Foundry Fundamentals"/>
+    <img src="https://img.shields.io/badge/-Foundry%20Fundamentals-000000?style=for-the-badge&logo=ethereum&logoColor=white"
+    alt="Solidity Smart Contracts Development"/>
   </a>
 </p>
 
+
 ---
-
-
+### 🛠️ Tech Stack
 
 <p align="center"><em>Some of the main technologies and frameworks I use:</em></p>
 
@@ -57,7 +71,7 @@ Also playing around these days with Python + AI (fine-tuning open-source models 
 
 ---
 
-## 🤝 Connect with me
+### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ferenoch-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ferenoch)
 [![Email](https://img.shields.io/badge/Email-ferenoch.dev@gmail.com-red?style=flat&logo=gmail)](mailto:ferenoch.dev@gmail.com)
