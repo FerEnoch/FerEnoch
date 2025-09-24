@@ -26,15 +26,15 @@ $ currently_hacking_on
 
 
 <p align="center">
-  <a href="https://profiles.cyfrin.io/u/ferech/achievements/solidity" target="_blank">
+  🖱️<a href="https://profiles.cyfrin.io/u/ferech/achievements/solidity" target="_blank">
     <img src="https://img.shields.io/badge/-Solidity%20Smart%20Contracts%20Development-000000?style=for-the-badge&logo=solidity&logoColor=green"
     alt="Solidity Smart Contracts Development"/>
   </a>
-  <a href="https://profiles.cyfrin.io/u/ferech/achievements/full-stack-web3-development-crash-course" target="_blank">
+  🖱️<a href="https://profiles.cyfrin.io/u/ferech/achievements/full-stack-web3-development-crash-course" target="_blank">
     <img src="https://img.shields.io/badge/-Fullstack%20Web3%20Development-000000?style=for-the-badge&logo=ethereum&logoColor=white"
     alt="Cyfrin Updraft Full-stack Web3 Development C.C."/>
   </a>
-  <a href="https://profiles.cyfrin.io/u/ferech/achievements/foundry" target="_blank">
+ 🖱️ <a href="https://profiles.cyfrin.io/u/ferech/achievements/foundry" target="_blank">
     <img src="https://img.shields.io/badge/-Foundry%20Fundamentals-000000?style=for-the-badge&logo=ethereum&logoColor=white"
     alt="Solidity Smart Contracts Development"/>
   </a>
